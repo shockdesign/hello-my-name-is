@@ -1,0 +1,15 @@
+system pmodew
+name hello.exe
+file hello
+file data
+file mdriver
+file load_mod
+file mloader
+file drv_nos
+file drv_sb
+file mdma
+file virtch
+file mirq
+file mmio
+file munitrk
+file mplayer
