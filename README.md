@@ -6,7 +6,7 @@ You can download the binaries here - http://www.pouet.net/prod.php?which=64374
 
 Or watch it on YouTube here - https://www.youtube.com/watch?v=Z4iKVwJ6q7c&feature=youtu.be
 
- - Graphics were created by @mikehdt
+ - Graphics were created by https://github.com/mikehdt
  - Music was composed and tracked by Chris Mylrea (known as cTrix)
  
 Development environment uses the following technologies/compilers:
