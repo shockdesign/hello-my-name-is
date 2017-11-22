@@ -12,7 +12,7 @@ Or watch it on YouTube here - https://www.youtube.com/watch?v=Z4iKVwJ6q7c&featur
 Development environment uses the following technologies/compilers:
 
  - DOSBox (http://www.dosbox.com/)
- - OpenWatcom (http://www.openwatcom.org/index.php/Main_Page)
+ - OpenWatcom (http://www.openwatcom.org/download.php)
  - PMODE/W (http://www.sid6581.net/pmodew/)
  - MikMod (http://mikmod.sourceforge.net/)
 
